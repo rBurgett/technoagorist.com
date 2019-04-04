@@ -1,0 +1,28 @@
+body {
+  padding-bottom: 15px;
+}
+.main-image-container {
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+.main-image {
+  width: 400px;
+  max-width: 100%;
+  height: auto;
+}
+.header-link {
+  margin: auto;
+  display: block;
+  width: 400px;
+  max-width: 100%;
+}
+.card {
+  margin-bottom: 15px;
+}
+.video-container-no-margin {
+  position: relative;
+}
+.video-container {
+  position: relative;
+  margin-bottom: 15px;
+}

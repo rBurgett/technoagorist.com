@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="en">
+<head>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137348095-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-137348095-1');
+  </script>
+
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <title>{{SITE_NAME}}</title>
+  <link rel="shortcut icon" href="/favicon.ico">
+
+  <meta name="description" content="{{SITE_DESCRIPTION}}" />
+
+  <!-- Open Graph -->
+  <meta property="og:site_name" content="{{SITE_NAME}}" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="{{SITE_NAME}}" />
+  <meta property="og:description" content="{{META_DESCRIPTION}}" />
+  <meta property="og:url" content="{{SITE_URL}}" />
+  <meta property="og:image" content="{{SITE_URL}}/images/{{META_IMAGE}}" />
+  <meta property="og:image:width" content="{{META_IMAGE_WIDTH}}" />
+  <meta property="og:image:height" content="{{META_IMAGE_HEIGHT}}" />
+  <meta property="fb:app_id" content="{{META_FB_APP_ID}}" />
+
+  <!-- Twiter -->
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="{{SITE_NAME}}" />
+  <meta name="twitter:description" content="{{META_DESCRIPTION}}" />
+  <meta name="twitter:url" content="{{SITE_URL}}" />
+  <meta name="twitter:image" content="{{SITE_URL}}/images/{{META_IMAGE}}" />
+
+  <link rel="alternate" type="application/rss+xml" title="Thank You For Your Servers Feed" href="{{SITE_URL}}/feed.rss" />
+
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <link rel="stylesheet" href="/css/main.css" >
+
+  <style>
+    body {
+      background-color: {{BACKGROUND_COLOR}};
+    }
+  </style>
+
+</head>
+<body>
+
+<div class="container">
+
+  <div class="row">
+    <div class="col">
+      <div class="main-image-container">
+        <a class="header-link" href="/"><img src="/images/{{META_IMAGE}}" alt="{{SITE_NAME}}" class="d-block m-auto main-image" /></a>
+      </div>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-lg-8 offset-lg-2">
+      {{#each episodes}}
+        <div class="card">
+          <div class="card-body">
+            <h3><a class="text-dark" href="/{{this.NUMBER}}">{{this.TITLE}}</a></h3>
+            <div>{{{render this.CONTENT}}}</div>
+            <div class="video-container-no-margin">
+              <audio controls class="w-100">
+                <source src="/audio/{{this.FILE}}" type="audio/mp3">
+              </audio>
+            </div>
+          </div>
+        </div>
+      {{/each}}
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col text-center">
+      <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
+    </div>
+  </div>
+
+</div>
+
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+</body>
+</html>

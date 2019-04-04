@@ -1,0 +1,26 @@
+{
+  "BACKGROUND_COLOR": "#c0c0c0",
+  "SITE_NAME": "Techno-Agorist",
+  "SITE_URL": "https://technoagorist.com",
+  "META_DESCRIPTION": "A daily show about how technology meets agorism in our everyday lives.",
+  "META_IMAGE": "technoagorist-734.png",
+  "META_IMAGE_WIDTH": "734",
+  "META_IMAGE_HEIGHT": "734",
+  "FB_APP_ID": "",
+  "MANAGING_EDITOR": "ryan@burgettweb.net (Ryan Burgett)",
+  "WEBMASTER": "ryan@burgettweb.net (Ryan Burgett)",
+  "COPYRIGHT": "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License - http://creativecommons.org/licenses/by-nc/4.0/",
+  "LANGUAGE": "en",
+  "CATEGORIES": [
+    "Technology",
+    "News & Politics"
+  ],
+  "AUTHOR": "Ryan Burgett",
+  "EMAIL": "ryan@burgettweb.net",
+  "ITUNES_CATEGORY": [
+    "Technology",
+    "News & Politics"
+  ],
+  "ITUNES_IMAGE": "technoagorist-2000.png",
+  "ITUNES_EXPLICIT": false
+}
