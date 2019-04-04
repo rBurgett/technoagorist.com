@@ -1,7 +1,7 @@
 ## Notes
 
 Find me on:
-* [Facebook](https://www.facebook.com/technoagorist)
+* [Facebook](https://www.facebook.com/TechnoAgorist)
 * [Twitter](https://twitter.com/TechnoAgorist)
 
 Hello, my name is Ryan and I am an agorist.
