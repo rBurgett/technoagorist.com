@@ -5,6 +5,7 @@
   "scripts": {
     "start": "node ./index",
     "generate": "node ./scripts/generate",
+    "generate-tor": "node ./scripts/generate --tor",
     "watch": "nodemon -w templates -e  -x \\\"npm run generate\\\"",
     "publish": "node ./scripts/clear-files && npm run generate && node ./scripts/publish"
   },
@@ -20,6 +21,7 @@
   "homepage": "https://github.com/rBurgett/technoagorist.com#readme",
   "devDependencies": {
     "colors": "^1.3.3",
+    "commander": "^2.20.0",
     "eslint": "^5.15.3",
     "fs-extra-promise": "^1.0.1",
     "handlebars": "^4.1.1",
