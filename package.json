@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "technoagorist.com",
   "scripts": {
-    "start": "http-server ./dist -p 3300",
+    "start": "node ./index",
     "generate": "node ./scripts/generate",
     "watch": "nodemon -w templates -e  -x \\\"npm run generate\\\"",
     "publish": "node ./scripts/clear-files && npm run generate && node ./scripts/publish"
@@ -31,6 +31,7 @@
     "s3": "^4.4.0"
   },
   "dependencies": {
+    "express": "^4.16.4",
     "rmrf-promise": "^1.1.0"
   }
 }
