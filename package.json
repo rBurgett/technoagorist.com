@@ -34,6 +34,7 @@
   },
   "dependencies": {
     "express": "^4.16.4",
-    "rmrf-promise": "^1.1.0"
+    "rmrf-promise": "^1.1.0",
+    "serve-favicon": "^2.5.0"
   }
 }
