@@ -4,7 +4,7 @@
   "description": "technoagorist.com",
   "scripts": {
     "start": "node ./index",
-    "generate": "node ./scripts/generate",
+    "generate": "npm run scss && node ./scripts/generate",
     "generate-tor": "npm run scss && node ./scripts/generate --tor",
     "watch": "nodemon -w templates -e  -x \\\"npm run generate\\\"",
     "publish": "node ./scripts/clear-files && npm run generate && node ./scripts/publish",

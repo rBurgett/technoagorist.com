@@ -120,7 +120,7 @@ const getEpisodes = async function() {
           url: `${siteData.SITE_URL}/${episode.NUMBER}`,
           description: episode.DESCRIPTION,
           guid: generateGuidFromString(episode.TITLE + episode.NUMBER),
-          date: birthtime,
+          date: episode.DATE || birthtime,
           enclosure: {
             url: `${siteData.SITE_URL}/audio/${episode.FILE}`,
             file: localFilePath
