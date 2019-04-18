@@ -1,0 +1,36 @@
+My name is Ryan and I am an agorist. Today we are talking about privacy rights and regulations.
+
+I value my privacy. It is nearly always on my mind as I interact online, but also as I live in the so-called real world. In the evening, I pull the shades down. I just don't like having people see me, whether I am reading a book, watching a show, or walking the baby down to sleep. Privacy is essential, in my book.
+
+Unfortunately, there are many out there who make business out of invading my privacy. As I browse the web, sites are dropping cooking which are read across domains, mapping out my every move. Other sites, under the guise of analytics or social media integrations, do the same but in different ways. I didn't ask for these. I didn't agree to these. Yet, despite that many companies do their best to know more about my habits online than I even know.
+
+People are rightly upset at this. Worldwide, it seems, people are coming out to say that they are tired of it. If they are going to be tracked, they want to know. If their private posts and details are going to be shared, they want to know. If they want to leave a site, they want to be able to delete their account and all of their data. The question then becomes, what should we do about it?
+
+Unfortunately, many people are turning to government violence to solve these problems for them. Last year, California passed the California Consumer Privacy Act (or CCPA) which purportedly gave the people of California new privacy rights. According to [Californians for Consumer Privacy](https://www.caprivacy.org/about), these include:
+
+* The **right** to know all data collected by a business on you, twice a year, free of charge.
+* The **right** to say no to the sale of your information.
+* The **right** to sue companies who collected your data, where that data was then stolen or disclosed because of carelessness or negligence on their part.
+* The **right** to delete data you have posted.
+* The **right** not to be discriminated against if you tell a company not to sell your personal information.
+* The **right** to be informed of what categories of data will be collected about you prior to its collection or at the point of collection, and to be informed of any changes to this collection.
+* The **right** to opt-in before sale of children’s information (under the age of 16).
+* The **right** to know the categories of third parties with whom your data is shared
+* The **right** to know the categories of sources of information from whom your data was acquired.
+* The **right** to know the business or commercial purpose of collecting your information.
+
+That is quite a list! The European Union has their own list, similar to that. As a software developer who developes applications for both desktops and for the web, this kind of legislation affects me directly. When I see this list, I have to wonder who this legislation really hurts and who it really helps. First, let's ask now, who does it hurt? I'm sure that it is onerous for Google and Facebook to comply with these rules, but are the rules going to put them out of business? Definitely not. These businesses are HUGE with enormous legal teams and everything else that they need to write up the necessary paperwork and check all their practices and such to make sure that they are compliant with the regulations.
+
+Who these regulations really hurt are folks like me, small, self-funded shops who are trying to get off the ground. I don't have a legal team. I don't have the time to study up on regulations. I spend my days working so that I can make enough money to keep my family fed. I don't have the time or resources to figure out how to comply, if I needed to. There are startups who could afford to comply with these, but they are the ones who receive gobs of venture capital from east and west coast elites. If I made a site which picked up steam, I could potentially reach the threshold of Californian users necessary that these regulations would kick in, and if I didn't cross every "t" and dot every "i" I could be sued and it would only take one single lawsuit to destroy my entire business. You see, these regulations will ultimately not hurt Google or Facebook. They will settle the lawsuits, comply, and move on. These regulations will hurt folks like me who are just trying to make good products and keep our clients happy.
+
+On top of the compliance concerns, these regulations also raise new privacy concerns. How is a business going to know how many California users they have? In order to do that, businesses must verify and store identities and locations for their users. Imagine that I start a privacy-minded site which I intentionally don't store any personal data on. Imagine that I intentionally do not have them verify their identities and intentionally don't store where they come from. Just by respecting their privacy in that way, I would potentially be non-compliant with these regulations. While these rules talk about security and privacy, they also force new privacy concerns. I would have to store personal information about my users that I don't want to store, just so that I would be compliant.
+
+You know, there is another option other than government violence to deal with these problems. Personal responsibility is the better route. There are tools out there to help secure our privacy. There are browsers like [Brave](https://brave.com/) which block ads and trackers. There are browser extensions like [Privacy Badger](https://www.eff.org/privacybadger) which allow ads but block cross-domain tracking. There are VPNs like [Private Internet Access](https://www.privateinternetaccess.com/) which can hide your real IP address from the sites that you visit. There is also [Tor](https://www.torproject.org/), which we talked about in an earlier episode.
+
+Sure, there will always be some out there like Facebook and Google which try and force you to use a real identity, but there are other like [Minds](https://www.minds.com/) which only ask for an email address in order to sign up. On Tor, you can find social media sites as well, like [Galaxy3](http://galaxy3m2mn5iqtn.onion). I actually have a [group](http://galaxy3m2mn5iqtn.onion/groups/profile/49538/techno-agorist) on Galaxy3 specifically for Techno-Agorist.
+
+Ultimately, regulations like this help the elite, entrenched companies by squashing the small shops and entrepreneurs who would like to compete with them. The only right answer is personal responsibility. You take responsibility for your life and I will take responsibility for mine. Facebook and Google will continue to be awful and we will continue to hate them, even if we reluctantly continue to use them. Meanwhile, competitors will be free to build their own products without the burden of regulations which leave any small business at the mercy of a single lawsuit from an angry competitor.
+
+Regulations are not the answer. Freedom is the answer. People are fleeing Facebook as we speak, and it isn't because of regulations. People are speaking loud and clear that they do not like the practices of Google and Facebook and the field is ripe for competitors. Maybe one of my products will compete with theirs someday. Who knows, only time will tell.
+
+This is Techno-Agorist, episode 6.
