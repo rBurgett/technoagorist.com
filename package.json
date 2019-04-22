@@ -31,9 +31,11 @@
     "fs-extra-promise": "^1.0.1",
     "handlebars": "^4.1.1",
     "http-server": "^0.11.1",
+    "image-size": "^0.7.3",
     "less-plugin-autoprefixer": "^2.0.0",
     "markdown-it": "^8.4.2",
     "moment": "^2.24.0",
+    "mp3-to-video": "^1.0.3",
     "node-sass": "^4.11.0",
     "nodemon": "^1.18.10",
     "podcast": "^1.1.0",
@@ -42,6 +44,7 @@
   },
   "dependencies": {
     "express": "^4.16.4",
+    "jimp": "^0.6.1",
     "rmrf-promise": "^1.1.0",
     "serve-favicon": "^2.5.0"
   }

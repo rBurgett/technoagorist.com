@@ -4,6 +4,7 @@ const path = require('path');
 const Feed = require('podcast');
 const Markdown = require('markdown-it');
 const crypto = require('crypto');
+const generateVideos = require('./generate-videos');
 
 const flags = require('commander')
   .option('--tor', true)
@@ -155,6 +156,8 @@ const getEpisodes = async function() {
       const faviconPath = path.join(outputDir, 'favicon.ico');
       await fs.removeAsync(faviconPath);
       await fs.moveAsync(path.join(outputDir, 'favicon_sm.ico'), faviconPath);
+    } else {
+      await generateVideos();
     }
 
   } catch(err) {
