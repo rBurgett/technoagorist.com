@@ -1,0 +1,17 @@
+My name is Ryan and I am an agorist. Today we are talking about selling human organs.
+
+In 1998, Walter Williams wrote a fantastic piece called "[Donate or Sell Organs](http://econfaculty.gmu.edu/wew/articles/98/donate-ro-sell.htm)." In it, he criticized the federal government's response to donor organ shortages. You see, just as today, there were not enough organs available for all the people who needed them. So, the feds made new rules in order to try and make sure that the critically ill would be the first to get the limited organs. But, like most government solutions, it didn't actually address the real problem. If you don't have enough organs, does changing how you allocate those organs really fix anything? The problems isn't allocation, it is availability. If there wasn't a shortage, then allocation wouldn't be a hot topic.
+
+For many years, I never thought outside of the organ donation program. I watched the movies about people waiting for organs, I read the sob stories of people on their deathbeds because they couldn't get much-needed organs. When I got my driver's license, I proudly told them that I would be an organ donor. I don't want somebody to die because my organs are rotting underground! How could I be so selfish!
+
+But, these days I think somewhat differently. I now understand self-ownership. I understand the fact that I own my body and what happens with my body is my decisions to make. Just as in 1996, organs are extremely valuable today. But, who profits off of them? With the current system, everybody BUT the donor makes money. Insurance companies pay tens of thousands to hundreds of thousands or more for organ and organ replacement surgeries. Doctors, hospitals, and others all make money off of these. Meanwhile, my family gets nothing.
+
+My body is my most valuable asset, both in life and actually in death as well. When I die, I want my organs to be harvested and sold at market value. It is the ultimate life insurance policy... assuming my organs are in good, working order. A death in the family is hard enough without the government showing up to harvest your loved one's organs in order to make other people a lot of money.
+
+As Walter Williams said in his article, "Transplantable organ shortages would disappear overnight if people were permitted to sell organs." If people were allowed to do what they want with their own body, and use their organs to help provide for their family after death, then people would be bursting down the doors to sign up. There would be lots of organs to go around for those who need them and . Plus, the increase in supply would bring down the price which would make transplantable organs that much easier for people to afford.
+
+Unfortunately, those who benefit off of the status quo will likely continue to promote the "organ donation" system which has failed people for so long. Just as in 1996 when Walter Williams wrote that article, the political and medical establishment is less interested in solving problems and more interested in lining their own pockets at our expense.
+
+As an agorist, I would love to be able to find alternate markets where we could sell our own organs and make sure that our families are the ones who benefit from that sale. I don't know of any decent markets like that right now, but maybe someday we will have those. My body, my choice. I am not a resource to be harvested at death for the benefit of government cronies. No thanks.
+
+This is Techno-Agorist, episode 9.
