@@ -1,0 +1,21 @@
+My name is Ryan and I am an agorist. Today we are talking about transportation and autonomy.
+
+I read a Wall Street Journal article recently which was titled "[Driving? The Kids Are So Over it.](https://www.wsj.com/articles/driving-the-kids-are-so-over-it-11555732810?mod=rsswn)" In the article, the author talks about how young people are not only putting off getting vehicles but also not bothering even to get a driver's license. In 1983, half of driving age teenagers could drive. Today, that number is barely 25%. I didn't need to read the article to know that, though. I know many teenagers (too many, in my opinion) who just don't care to drive.
+
+As an agorist, I believe that personal autonomy is essential. This means that I try and organize my life in such a way that  I have the most ability to determine my own destiny. I need a way to earn money, so I work. If I didn't have money, I wouldn't be able to buy things that I need. To have the freedom to purchase what I need, I have to work, so that's what I do. I need water to survive, so I pay for water service. But, at the same time, I don't want to be completely dependent on a water company, so I also collect rainwater and can filter it at home. We need food in order to live, so at home we garden and grow our own food.
+
+Food, water, shelter, electricity, communications, and money are all essential for life. Without those, I would live a miserable existence and die. If you don't have the essentials of life, you can't truly be free. Along with those, I also consider the ability to transport myself to be essential.
+
+How can I be free if I am stuck in one place? Can I be free if I have no means of moving from point A to point B? The obvious answer is NO. If I have no means for going where I want to go, then I am not free. I am stuck. I am no longer autonomous and instead have to live at the mercy of those around me.
+
+The article talked about how rather than getting cars and driver's licenses, young people are instead utilizing services like Uber and Lyft. For those who don't know, those are services where you schedule a trip on your phone, and then a driver will show up and take you to where you want to go. Using Uber and Lyft is cheaper than using a taxi service, but it is still much more expensive than driving yourself. If I used Uber and Lyft, two trips to the grocery store (both there and back) would cost me more than I currently pay monthly for my car insurance. Heck, it would cost more than I pay monthly for my internet service.
+
+As I see it, while these services do provide a means of moving from point A to point B, there are still two significant problems.
+
+I mentioned the first problem earlier, which is the cost. My goal is to be free, to be autonomous, to determine my own destiny. If I waste all of my money paying for rides, am I really any better off? Even though the article says otherwise, it actually isn't difficult or expensive to get a car these days. The last car I bought, I found in the morning on Facebook marketplace and owned it by the end of the day. The seller wanted $1800, but I talked them down to $1500. It is a Toyota with many good years left on it. There are tons of those available for people willing to look.
+
+Apart from the cost of paying for individual rides, my second problem with them is that they leave you at the mercy of others. I don't want to be at the mercy of others. I want to be free. I want to be able to take care of my family regardless of what anyone else does or doesn't do. If I can't move from point A to point B, then I am not really free. If I need someone else in order to accomplish that, then my freedom and autonomy are out of my hands. I am only free to the extent that others are there to help me go where I want to go.
+
+When my children are old enough to drive, I hope that they are excited about it. I hope that they understand the benefits of being able to take care of themselves. I hope that they don't allow themselves to be limited by those around them, but instead grow up and take responsibility for their own lives. That really is the best that anybody can do. I take responsibility for my life and you take responsibility for yours.
+
+This is Techno-Agorist, episode 14.
