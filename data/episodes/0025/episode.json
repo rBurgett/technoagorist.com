@@ -1,0 +1,10 @@
+{
+  "TITLE": "Episode 25 - DNS Security",
+  "NUMBER": 25,
+  "DESCRIPTION": "Seemingly everyone is interested in internet security. They want everything encrypted and secure. But, few people even give a thought to the DNS requests we send all day every day and which are still sent in plain text over the internet.",
+  "CONTENT": "Seemingly everyone is interested in internet security. They want everything encrypted and secure. But, few people even give a thought to the DNS requests we send all day every day and which are still sent in plain text over the internet.",
+  "IMAGE": "ta_0025.png",
+  "ITUNES_IMAGE": "",
+  "FILE": "ta_0025.mp3",
+  "DATE": "2019-10-23T06:01:26.526Z"
+}
