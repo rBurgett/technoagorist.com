@@ -157,7 +157,7 @@ const getEpisodes = async function() {
       await fs.removeAsync(faviconPath);
       await fs.moveAsync(path.join(outputDir, 'favicon_sm.ico'), faviconPath);
     } else {
-      await generateVideos();
+      // await generateVideos();
     }
 
   } catch(err) {
