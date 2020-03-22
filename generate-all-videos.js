@@ -12,7 +12,7 @@ const generateVideos = require('./scripts/generate-videos');
     const episodeImages = files
       .filter(f => /^\w+_\d+\.\w+/.test(f))
       .map(f => path.join(imagesDir, f))
-      .slice(-2);
+      .slice(-1);
 
     for(let i = 0; i < episodeImages.length; i++) {
       console.log(`${i + 1} of ${episodeImages.length}`);
