@@ -87,7 +87,7 @@ const getEpisodes = async function() {
     console.log(JSON.stringify(body, null, '  '));
     return;
 
-    for(const episode of episodes.slice(37)) {
+    for(const episode of episodes.slice(-1)) {
 
       const { NUMBER } = episode;
       let numberStr = NUMBER.toString();

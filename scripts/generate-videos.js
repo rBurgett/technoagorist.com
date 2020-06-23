@@ -39,7 +39,7 @@ const generateVideos = async function() {
   try {
 
     let episodes = await getEpisodes();
-    episodes = episodes.slice(-1);
+    // episodes = episodes.slice(-1);
 
     const ext = 'mp4';
 
