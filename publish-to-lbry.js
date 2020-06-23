@@ -74,6 +74,19 @@ const getEpisodes = async function() {
     // console.log(JSON.stringify(body, null, '  '));
     // return;
 
+    const { body } = await request
+      .post('http://localhost:5279')
+      .set('Content-Type', 'application/json')
+      .send({
+        method: 'get',
+        params: {
+          uri: 'lbry://@ThisIsMLGA#5/mlga_0029#e',
+          save_file: false
+        }
+      });
+    console.log(JSON.stringify(body, null, '  '));
+    return;
+
     for(const episode of episodes.slice(37)) {
 
       const { NUMBER } = episode;
