@@ -1,9 +1,34 @@
 const s3 = require('s3');
 const path = require('path');
+const AWS = require('aws-sdk');
 
 const client = s3.createClient({
   multipartUploadThreshhold: 1000000000,
   multipartUploadSize: 1000000000
+});
+
+const cloudfront = new AWS.CloudFront({apiVersion: '2019-03-26'});
+
+const cdnInvalidations = () => new Promise((resolve, reject) => {
+  const invalidationParams = {
+    DistributionId: process.env.CLOUDFRONT_DISTRIBUTION_ID,
+    InvalidationBatch: {
+      CallerReference: String(new Date().getTime()),
+      Paths: {
+        Quantity: 4,
+        Items: [
+          '/',
+          '/css/*',
+          '/index.html',
+          '/feed.rss'
+        ]
+      }
+    }
+  };
+  cloudfront.createInvalidation(invalidationParams, err => {
+    if(err) reject(err);
+    else resolve();
+  });
 });
 
 const params = {
@@ -21,5 +46,9 @@ uploader.on('progress', () => {
   console.log('progress', uploader.progressAmount, uploader.progressTotal);
 });
 uploader.on('end', () => {
-  console.log('Done!');
+  cdnInvalidations()
+    .then(() => {
+      console.log('Done!');
+    })
+    .catch(console.error);
 });
