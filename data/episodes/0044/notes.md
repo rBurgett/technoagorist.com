@@ -1,6 +1,6 @@
 My name is Ryan and I am an agorist. Today, we are talking about androids, NPCs, and humanity.
 
-I am a huge fan of Philip K. Dick. His short stories have always been my favorite science fiction of all time. In high school, I read through my big volume of his short stories so much that the binding literally fell apart. Recently, I decided to read through his full-length book, Do Androids Dream of Electric Sheep? Boy-oh-boy was that weird. After finishing, I decided to revisit the movie Blade Runner, which was loosely based on that classic.
+I am a huge fan of Philip K. Dick. His short stories have always been my favorite science fiction of all time. In high school, I read through my big volume of his short stories so many times that the binding literally fell apart. Recently, I decided to read through his full-length book, Do Androids Dream of Electric Sheep? Boy-oh-boy was that weird. After finishing, I decided to revisit the movie Blade Runner, which was loosely based on that classic.
 
 The movie is dramatically different from the book, but it is still immensely enjoyable. It asks important questions about humanity and about life. In the movie, Harrison Ford plays Rick Deckard, a cop whose job is to hunt down androids called "replicants." These replicants are indistinguishable from humans outside of their increased strength and artificially-short life spans. As Deckard hunts these humanoid robots down, he is faced with questions about what it means to be human.
 
