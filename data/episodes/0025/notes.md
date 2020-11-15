@@ -32,7 +32,7 @@ You might have noticed that I didn't mention DNS over HTTPS yet with regard to m
 
 We all need to acknowledge the huge privacy concerns of today's DNS system. Once we have acknowledged the issues, then we can work to fix them. There are some options out there today, but on the clear web nothing is perfect just yet. If you want to begin taking steps to protect your DNS data, then check out the show notes for this episode at technoagorist.com/25 for a tutorial on setting up your own local DNS server with DNSSEC using a Raspberry Pi. Hopefully, I'll be able to expand those instructions soon to include setting up DNS over HTTPS as well. Technology is amazing, but unfortunately, it isn't always easy to set it up right. Let's just take it one step at a time.
 
-This is Techno-Agorist, episode 25.
+This is TechnoAgorist, episode 25.
 
 ### How to build your own local DNS server with DNSSEC and ad-blocking
 

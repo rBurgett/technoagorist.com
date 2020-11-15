@@ -20,4 +20,4 @@ Don't let yourself get sucked down the hole of darkness and despair that is the 
 
 You are going to make it.
 
-This is Techno-Agorist episode 38.
+This is TechnoAgorist episode 38.

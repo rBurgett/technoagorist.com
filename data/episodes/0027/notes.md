@@ -22,4 +22,4 @@ Me, personally, I don't like pedophiles. Call me crazy. I don't like that for ye
 
 So, vote with your dollars, or don't vote with your dollars. Whatever. It's your decision, your life, and your conscience.
 
-This is Techno-Agorist, episode 27.
+This is TechnoAgorist, episode 27.

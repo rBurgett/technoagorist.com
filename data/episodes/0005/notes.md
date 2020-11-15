@@ -14,4 +14,4 @@ When we become absolutists, we put artificial limits on our lives. We essentiall
 
 So, embrace the gray. Don't be afraid of pragmatism. Do what is best for you and your family. We can agree that you shouldn't hurt people or take their stuff. Outside of that, anything goes. It's your choice to make.
 
-This is Techno-Agorist, episode 5.
+This is TechnoAgorist, episode 5.

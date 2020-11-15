@@ -20,4 +20,4 @@ When we make the often arbitrary distinction between public and private groups, 
 
 So, don't waste your time defending those who are actively trying to limit your freedom. For all you know, they might be colluding with the governments who you already hate so much. Do what you can to be most free both online and in the so-called "real world." Criticize those worthy of criticism and disassociate with them if necessary. It's your life to live and your choice to make.
 
-This is Techno-Agorist, episode 22.
+This is TechnoAgorist, episode 22.

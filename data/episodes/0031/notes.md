@@ -22,4 +22,4 @@ Just look at how the internet has brought people from all over the world closer 
 
 Before we can reach the augmented utopia that I dream of, we must resolve many significant technological and privacy issues. But, like everything in life, it will have to happen one step at a time, one device at a time, one app at a time. I, for one, am excited to see what's coming. It's going to be fun.
 
-This is Techno-Agorist, episode 31.
+This is TechnoAgorist, episode 31.

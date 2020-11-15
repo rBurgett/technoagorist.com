@@ -1,16 +1,16 @@
 {
   "BACKGROUND_COLOR": "#c0c0c0",
-  "SITE_NAME": "Techno-Agorist",
+  "SITE_NAME": "TechnoAgorist",
   "SITE_URL": "https://technoagorist.com",
   "SITE_URL_TOR": "http://ugndpz7v46llioxb7e4fwqlkcftrzjaypjfkyqswbovosziuo6ujd2yd.onion",
   "ITUNES_URL": "https://podcasts.apple.com/us/podcast/techno-agorist/id1458773157",
-  "META_DESCRIPTION": "Techno-Agorist is a daily program which focuses on the intersection of technology and agorism in our everyday lives.",
-  "META_IMAGE": "technoagorist-734.png",
-  "META_IMAGE_WIDTH": "734",
-  "META_IMAGE_HEIGHT": "734",
-  "META_IMAGE_TOR": "technoagorist-400.png",
-  "META_IMAGE_WIDTH_TOR": "400",
-  "META_IMAGE_HEIGHT_TOR": "400",
+  "META_DESCRIPTION": "TechnoAgorist is a daily program which focuses on the intersection of technology and agorism in our everyday lives.",
+  "META_IMAGE": "technoagorist-700.png",
+  "META_IMAGE_WIDTH": "700",
+  "META_IMAGE_HEIGHT": "700",
+  "META_IMAGE_TOR": "technoagorist-700.png",
+  "META_IMAGE_WIDTH_TOR": "700",
+  "META_IMAGE_HEIGHT_TOR": "700",
   "FB_APP_ID": "",
   "MANAGING_EDITOR": "ryan@burgettweb.net (Ryan Burgett)",
   "WEBMASTER": "ryan@burgettweb.net (Ryan Burgett)",
@@ -26,6 +26,6 @@
     "Technology",
     "News & Politics"
   ],
-  "ITUNES_IMAGE": "technoagorist-2000.png",
+  "ITUNES_IMAGE": "technoagorist-2000-new.png",
   "ITUNES_EXPLICIT": false
 }

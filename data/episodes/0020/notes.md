@@ -16,4 +16,4 @@ The number one barrier in the western world between most people and personal fre
 
 This podcast exists to give some perspective on topics ranging from our everyday lives all the way up to macroeconomics. The episodes are for me as much as for you, because I need to daily work on my own perspective. It is way too easy to fall into negative thinking and give up. The right perspective, meanwhile, fills your mind with light and understanding and prepares you to live the life that you know you want for yourself.
 
-This is Techno-Agorist, episode 20.
+This is TechnoAgorist, episode 20.

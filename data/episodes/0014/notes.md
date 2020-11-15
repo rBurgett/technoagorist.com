@@ -18,4 +18,4 @@ Apart from the cost of paying for individual rides, my second problem with them 
 
 When my children are old enough to drive, I hope that they are excited about it. I hope that they understand the benefits of being able to take care of themselves. I hope that they don't allow themselves to be limited by those around them, but instead grow up and take responsibility for their own lives. That really is the best that anybody can do. I take responsibility for my life and you take responsibility for yours.
 
-This is Techno-Agorist, episode 14.
+This is TechnoAgorist, episode 14.

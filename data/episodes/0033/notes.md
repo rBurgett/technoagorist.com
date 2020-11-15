@@ -20,4 +20,4 @@ I don't know of any real decentralized and distributed alternatives to PornHub (
 
 Being an agorist means finding ways to be the most free now, despite anyone and anything around you. One of the best strategies toward freedom is finding decentralized/distributed solutions to our needs today. Every time you replace a centralized service with something open and decentralized, you become that much more free, and that much more in control of your own future. That's a darned good way to be.
 
-This is Techno-Agorist, episode 33.
+This is TechnoAgorist, episode 33.

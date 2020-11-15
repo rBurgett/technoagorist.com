@@ -20,4 +20,4 @@ Unlike with replicants in the world of Blade Runner, I don't believe that NPCs s
 
 Let's be better than that. Let's use our brains. Let's be a positive contrast to the NPCs of the world today and maybe, just maybe, we can start to break their programming.
 
-This is Techno-Agorist episode 44.
+This is TechnoAgorist episode 44.

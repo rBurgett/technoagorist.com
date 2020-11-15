@@ -22,4 +22,4 @@ On a practical level alone, anyone with a brain in their head should know that t
 
 Security is only as good as its weakest link, and when you introduce ways around or through encryption, you introduce trust into an otherwise trustless system. Broken security is no security because it takes the power out of your hands and places it into the hands of others. I am not ok with that, and you shouldn't be either.
 
-This is Techno-Agorist, episode 43.
+This is TechnoAgorist, episode 43.

@@ -22,4 +22,4 @@ It is discouraging that over the last nearly three months, I have only seen one 
 
 When Governor Wolf leaves his mansion and looks out upon his subjects, I want him to see that lone face in the crowd without a mask on their face. I want him to be reminded that no matter how hard he pushes, he does not own me. Hopefully, I'm not the only one.
 
-This is Techno-Agorist, episode 39.
+This is TechnoAgorist, episode 39.

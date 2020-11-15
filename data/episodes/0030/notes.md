@@ -18,4 +18,4 @@ My point of this post is not to teach you the original intent of the writers of 
 
 It was a great reminder to me that I'll never be done learning. I'll never get to that place where I just am right about everything. We all have holes in our knowledge and therefore must always be open to the possibility that we have been wrong about something even for decades. It's a humbling experience to be reminded that you sometimes are wrong, but it's important. I am not perfect at it, but I do always try to be open to correction. I hope you folks will try as well. Let's be open and learn together.
 
-This is Techno-Agorist, episode 30.
+This is TechnoAgorist, episode 30.

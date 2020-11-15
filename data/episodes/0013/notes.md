@@ -32,4 +32,4 @@ Gold and silver are fantastic, but they still rely on a trusted third party in o
 
 Gold and silver were the best that the world had until worldwide networks and communications came to be. Today, with cryptocurrencies, we have even better options for exchanging value. Cryptocurrencies aren't perfect, but they are a huge step in the right direction. Even if this generation of cryptocurrencies aren't the ones to gain widespread adoption worldwide as trusted mediums of exchange, their day is coming. It's only a matter of time.
 
-This is Techno-Agorist, episode 13.
+This is TechnoAgorist, episode 13.

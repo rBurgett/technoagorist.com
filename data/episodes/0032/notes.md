@@ -20,4 +20,4 @@ I'm glad that those folks in Virginia went out and made their voices heard. I'm 
 
 The solution is to live our lives, to BE free, regardless of what those silly megalomaniacs write on paper. Your life is yours to live, and their decisions only have power over you if you let them. Sure, you might sometimes react to things they do as a strategic move, but that is your decision to make as well. A life lived free is better than any protest and more dangerous than any bill. Politicians know that, which is why they try and hold us all down. But, ultimately, we just don't have to care. Forget them, ignore their silly laws if you want to. Live your life, embrace the freedom you have and spend ever moment being who you are and doing what you want to do. That's certainly what I will be doing.
 
-This is Techno-Agorist, episode 32.
+This is TechnoAgorist, episode 32.

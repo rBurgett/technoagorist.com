@@ -20,4 +20,4 @@ Agorism is about counter economics. It's about living our lives, regardless of w
 
 In some ways, smart contracts are like the perfect agorists. In reality, though, we are the agorists and technologies like cryptocurrencies, blockchains, and the EVM provide amazing opportunities going into the future. If we play our cards right, when it comes to real world uses of these technologies, we agorists will be light-years ahead of the governments of the world before they even figure out schemes to try and regulate them. That makes me excited. Let's do it.
 
-This is Techno-Agorist, episode 23.
+This is TechnoAgorist, episode 23.

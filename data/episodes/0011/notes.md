@@ -14,4 +14,4 @@ The vaccines of today still contain chemicals and preservatives that could destr
 
 She needs the freedom to choose what is right for her. I need the freedom to choose what is right for me! We all need the freedom to choose what is right for ourselves. Once, when I told that story to someone, they responded by saying, "Well, you gotta crack a few eggs!" I was furious. That isn't how life works. You don't get to choose to risk my wife's life. Her life, her choice. My life, my choice. It really is that easy.
 
-This is Techno-Agorist, episode 11.
+This is TechnoAgorist, episode 11.

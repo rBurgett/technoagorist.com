@@ -24,4 +24,4 @@ In the free market, the only non-essential employees are those narcissistic bure
 
 Regardless, 2020 has been a great reminder of why agorism and counter-economics are so important. The more we can separate ourselves from these people, the better.
 
-This is Techno-Agorist, episode 40.
+This is TechnoAgorist, episode 40.

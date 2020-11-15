@@ -18,4 +18,4 @@ We have been programmed from decades on the clear web to think that anything pri
 
 Let's get our priorities straight and let's fix our perspective. Freedom isn't what is scary. What is scary are those who violently take our freedom. Privacy is essential to freedom, which means that privacy minded networks like Tor are essential to our freedom online.
 
-This is Techno-Agorist, episode 2.
+This is TechnoAgorist, episode 2.

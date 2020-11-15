@@ -14,4 +14,4 @@ All around the world, people are persecuted for everything from religion to prof
 
 When I see decentralized, free market solutions that don't discriminate, that freely allow anyone to interact on the market, I am thankful. It does not matter to me whether the people who use those are honorable or repugnant or anywhere in-between. I am glad that there are options out there for people, because that means there are options for me as well.
 
-This is Techno-Agorist, episode 34.
+This is TechnoAgorist, episode 34.

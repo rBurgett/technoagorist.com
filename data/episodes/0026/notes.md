@@ -4,7 +4,7 @@ In the late nineties and early two-thousands, the internet was transitioning. It
 
 If you have ever read a blog, visited a news site, or listened to a podcast, you have interacted with RSS feeds. RSS is a standardized XML specification for sharing news and information in a format that is readable by both humans and machines. As a young teenager, Aaron Swarts was one of the people who designed this specification. The free and open exchange of information was his passion.
 
-This podcast, Techno-Agorist, is published under a Creative Commons license, as is every other MLGA Network original podcast. This license allows content creators to openly share their work while providing a clear and easy set of terms for the sharing of their content by others. So, no more worrying about whether or not you can share certain content or risk a lawsuit, because it's right there. For our shows, we simply ask for attribution. If you share our content, please acknowledge that we were the authors. Thank you. That's it! Now, you probably already guessed where I was going with this, and yes, Aaron Swartz was one of the designers of the Creative Commons license as well.
+This podcast, TechnoAgorist, is published under a Creative Commons license, as is every other MLGA Network original podcast. This license allows content creators to openly share their work while providing a clear and easy set of terms for the sharing of their content by others. So, no more worrying about whether or not you can share certain content or risk a lawsuit, because it's right there. For our shows, we simply ask for attribution. If you share our content, please acknowledge that we were the authors. Thank you. That's it! Now, you probably already guessed where I was going with this, and yes, Aaron Swartz was one of the designers of the Creative Commons license as well.
 
 Then, after helping to build RSS, which was a format to share data, and after helping to develop the Creative Commons License, was a license to share data, he then co-founded Reddit, a platform to facilitate the sharing of information online.
 
@@ -24,4 +24,4 @@ Aaron Swarts was an agorist in his own right, an internet hero, and an informati
 
 We might not all take as bold of steps as Aaron did, but we can all acknowledge him for the good that he did. He was a hero, and with his death, the world lost another brave freedom fighter at the hand of the violent and greedy state. Here's to Aaron Swartz, a champion of internet freedom.
 
-This is Techno-Agorist, episode 26.
+This is TechnoAgorist, episode 26.

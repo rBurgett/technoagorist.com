@@ -28,4 +28,4 @@ The best strategy toward liberty is one that you can control and that relies on 
 
 Only you know what you need to do. Only you know how you can make your life better and more free. If you have to pick a real enemy, it really is anything or anyone that stands between you and the life that you and your family want. Some jerk 3000 miles away who disagrees with you on some political topic isn't your enemy, and if you do spend lots of time trying to fix people online, you might want to stop and check your priorities. 
 
-This is Techno-Agorist, episode 16.
+This is TechnoAgorist, episode 16.

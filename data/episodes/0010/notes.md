@@ -18,4 +18,4 @@ If you want to learn more about how you can do this in your life, check out Samu
 
 In summary, where can you be free? You probably won't find it through violent revolution. You might find it in the middle of the ocean, but you might also have to abandon your home overnight when a state decides that you are a national security threat. You might find it in space, but that is a long way off. If you want to be free, the best place to find freedom is right where you are. Listen to this podcast, read the books I mentioned, and find ways that you can daily make the state more and more irrelevant in your life. If you can find freedom where you are now, you can find it anywhere.
 
-This is techno-agorist, episode 10.
+This is TechnoAgorist, episode 10.

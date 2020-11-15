@@ -12,4 +12,4 @@ I have no champions of freedom in DC, or in my state capital, or in my city coun
 
 I have no time for the state. I spend all of my time caring and providing for my family. I don't owe the state any time or energy. They, on the other hand, owe me a lot of money that they have stolen from me over the years! I'd like that in Bitcoin, please.
 
-This is Techno-Agorist, episode 24.
+This is TechnoAgorist, episode 24.

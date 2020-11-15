@@ -16,4 +16,4 @@ Power corrupts. That's the story of humanity. Don't ever excuse people who use v
 
 Instead, ignore these people. Don't take part in their systems. Make your own systems, your own markets. Appeal to people's humanity in your interactions. Don't ever use violence to coerce people to your will. The only way we can break free is if we stop justifying violent coercion on all levels, both public and private.
 
-This is Techno-Agorist, episode 41.
+This is TechnoAgorist, episode 41.

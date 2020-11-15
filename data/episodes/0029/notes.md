@@ -22,4 +22,4 @@ Remember how I said that I only listen to NPR to figure out the progressive agen
 
 I said earlier that I am a pacifist, and as such, I won't be joining in the violence on any side. But, I'll never support the governments who wage war against their citizens. The boogaloo will happen unless something dramatically changes in the US. It's just a matter of time.
 
-This is Techno-Agorist, episode 29.
+This is TechnoAgorist, episode 29.

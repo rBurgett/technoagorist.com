@@ -14,4 +14,4 @@ Even though the entertainment industry still has a long way to go, Napster and t
 
 Don't be like Lars Ulrich and Metallica, trying to control what others do. Instead, be an agorist and make the most of your time, energy, and property. The status quo will eventually catch up.
 
-This is Techno-Agorist, episode 3.
+This is TechnoAgorist, episode 3.

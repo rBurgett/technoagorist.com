@@ -18,4 +18,4 @@ The best part about a meme war is that it puts everyone on equal footing. Regula
 
 In a meme war, I'd bet that regular people would easily destroy the best of the best in the US and Iranian governments. That sounds good to me.
 
-This is Techno-Agorist episode 28.
+This is TechnoAgorist episode 28.

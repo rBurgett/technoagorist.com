@@ -18,4 +18,4 @@ My third concern regards the copyrighting of my genetic information. There was a
 
 I don't want the state to have my genetic information, I do not want my genetic information sold to advertisers, insurance companies or anyone else, and finally, I don't want to risk somebody else copyrighting my DNA. People might or might not find other ways to get that data from me, but the difference is consent. I don't consent. My body, my choice.
 
-This is Techno-Agorist, episode 12.
+This is TechnoAgorist, episode 12.

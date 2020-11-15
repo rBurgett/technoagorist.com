@@ -14,4 +14,4 @@ If you are a pragmatist, if you care about solving problems in the most practica
 
 Agorists are people of action. We are pragmatists through and through. We are not interested in the state's inefficient and impractical bureaucracies. We take responsibility for our lives and figure out ways to solve our problems, regardless of the state (and often despite it as well).
 
-This is Techno-Agorist, episode 15.
+This is TechnoAgorist, episode 15.

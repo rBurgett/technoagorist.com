@@ -12,4 +12,4 @@ Agorism is fundamentally opposed to this way of thinking because agorism underst
 
 So, make the most of your life. Do your best to spend it in ways that best benefit you and your family, not megalomaniacs on counterfeit thrones.
 
-This is Techno-Agorist, episode 4.
+This is TechnoAgorist, episode 4.

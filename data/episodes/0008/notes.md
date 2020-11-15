@@ -14,4 +14,4 @@ In my ideal world, people in the real world would be as honest and real as they 
 
 Forcing people to hide who they are ultimately puts all of us at a disadvantage. The internet remains the most free outlet for social interactions, and that is why you will continue to find me primarily interacting with people online. Freedom is the answer, for better or for worse. The awesome people will be awesome and the horrible people will be horrible, and we will each have the opportunity to judge for ourselves and make informed decisions as to who we want to associate with.
 
-This is Techno-Agorist, episode 8.
+This is TechnoAgorist, episode 8.

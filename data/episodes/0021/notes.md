@@ -20,4 +20,4 @@ I could go on, but my point is that I use separate companies for the different h
 
 As an agorist, I value my autonomy. And--in my opinion--privacy goes hand in hand with autonomy. Don't trust anybody. Assume that everyone is stealing your data and selling it or giving it to the government. Play offense, not defense with your personal data.
 
-This is Techno-Agorist, episode 21.
+This is TechnoAgorist, episode 21.

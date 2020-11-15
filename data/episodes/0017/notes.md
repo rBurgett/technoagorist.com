@@ -28,4 +28,4 @@ Technology is great, and having cell phones with us at all hours of the day has 
 
 Maybe we do use our cell phones too much. Or, maybe we don't use them enough. It's up to you and me to decide what is right for us. The important thing to remember, though, is that your preferences don't constitute a responsibility on others. You don't own their bodies, you don't own their attention. My body, my choice. Your body, your choice. If we understand that, then we can all enjoy technology together, each in our own ways.
 
-This is Techno-Agorist, episode 17.
+This is TechnoAgorist, episode 17.

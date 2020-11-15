@@ -20,4 +20,4 @@ So, if you collect rainwater, guess what? You're practicing counter-economics...
 
 So, what you can expect from this show are short, regularly released episodes looking at topics from the news and from life experiences, all from the agorist perspective, always asking how can I better separate my life from the government? How can I stop worrying about what other people think, what other groups think, what the state thinks, and instead thinking about what's best for me and my family.
 
-This is techno-agorist, episode 1.
+This is TechnoAgorist, episode 1.

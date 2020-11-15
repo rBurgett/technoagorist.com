@@ -22,4 +22,4 @@ The society so gleefully presented The Socialist Manifesto is an absolute nightm
 
 A vote is not freedom. A vote is not equality. Freedom means being able to do what you want to with your own life and property. And fairness means that no majority can squash that right to your own life and property. In my life, I am always the majority. My life, my choice. Your life, your choice. 
 
-This is Techno-Agorist, episode 18.
+This is TechnoAgorist, episode 18.

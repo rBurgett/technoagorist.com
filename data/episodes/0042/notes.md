@@ -22,4 +22,4 @@ If they are going to tell me that every presidential election is the most import
 
 Whoever wins, we live. Let's check our priorities and focus on the things that matter most, rather than get swept up in and stressed out about things that we can't control.
 
-This is Techno-Agorist, episode 42.
+This is TechnoAgorist, episode 42.

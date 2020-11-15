@@ -22,4 +22,4 @@ The point of this post isn't that everyone should be homeschooled. The point of 
 
 The ability to teach yourself is one of the most important life skills that anyone could learn. It is a skill that I make use of every day and one that I want my children to have and use as well. I hope the same for you.
 
-This is Techno-Agorist, episode 19.
+This is TechnoAgorist, episode 19.

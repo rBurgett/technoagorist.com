@@ -16,4 +16,4 @@ I am not going to thank the government for graciously deciding to not hurt me fo
 
 My life is mine to live and your life is yours to live. We each have the right to decide what we do and don't do with our lives and property. Government may or may not use violence against us for exercising those rights, but as agorists hopefully we can find ways around them.
 
-This is Techno-Agorist, episode 7.
+This is TechnoAgorist, episode 7.

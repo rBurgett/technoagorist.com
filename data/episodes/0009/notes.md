@@ -14,4 +14,4 @@ Unfortunately, those who benefit off of the status quo will likely continue to p
 
 As an agorist, I would love to be able to find alternate markets where we could sell our own organs and make sure that our families are the ones who benefit from that sale. I don't know of any decent markets like that right now, but maybe someday we will have those. My body, my choice. I am not a resource to be harvested at death for the benefit of government cronies. No thanks.
 
-This is Techno-Agorist, episode 9.
+This is TechnoAgorist, episode 9.
