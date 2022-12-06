@@ -43,7 +43,7 @@
     "s3": "https://github.com/rBurgett/node-s3-client.git"
   },
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.18.2",
     "jimp": "^0.16.1",
     "rmrf-promise": "^1.1.0",
     "serve-favicon": "^2.5.0",
